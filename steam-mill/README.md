@@ -21,3 +21,12 @@ Clone the repository and install the dependencies:
 git clone https://github.com/YourUsername/steam-mill.git
 cd steam-mill
 npm install
+
+# Steam Utils
+
+`steam-utils` is a library providing utilities for steam engine performance monitoring and failure prediction.
+
+## Installation
+
+```bash
+npm install steam-utils
