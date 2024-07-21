@@ -1,6 +1,6 @@
 # Steam Mill
 
-![Steam Mill Logo](path-to-your-logo.png)
+![Steam Mill Logo](Steam_Mill/img/steam-mill%20header.jpg.jpg)
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/MitemsHub/Steam_Mill/ci.yml)
 ![Coverage](https://img.shields.io/codecov/c/github/MitemsHub/Steam_Mill)
@@ -78,4 +78,4 @@ If you have any questions or suggestions, feel free to reach out to us on [Twitt
 
 Thank you for being part of the Steam Mill community!
 
-![Footer Image](path-to-footer-image.png)
+![Footer Image](Steam_Mill/img/steam-mill%20footer.jpg)
