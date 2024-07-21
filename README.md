@@ -1,6 +1,6 @@
 # Steam Mill
 
-![Steam Mill Logo](Steam_Mill/img/steam-mill-header.jpg)
+![Steam Mill Logo](img/steam-mill-header.jpg)
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/MitemsHub/Steam_Mill/ci.yml)
 ![Coverage](https://img.shields.io/codecov/c/github/MitemsHub/Steam_Mill)
