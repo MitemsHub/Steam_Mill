@@ -78,4 +78,4 @@ If you have any questions or suggestions, feel free to reach out to us on [Twitt
 
 Thank you for being part of the Steam Mill community!
 
-![Footer Image](Steam_Mill/img/steam-mill-footer.jpg)
+![Footer Image](img/steam-mill-footer.jpg)
