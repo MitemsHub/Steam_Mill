@@ -1,0 +1,10 @@
+{
+    "database": {
+        "host": "prod-db-server",
+        "port": 5432,
+        "name": "steam_mill"
+    },
+    "logging": {
+        "level": "error"
+    }
+}

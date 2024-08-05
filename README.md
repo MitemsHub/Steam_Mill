@@ -66,6 +66,17 @@ We are committed to maintaining a friendly and respectful community. Please read
 
 For submitting pull requests, please use our [Pull Request Template](Steam_Mill/Pull_Request_Template.md) to ensure all necessary information is included.
 
+## Configuration Management Utility
+
+The configuration management utility allows you to manage different configurations for development, testing, and production environments.
+
+### Usage
+
+1. Set the `APP_ENV` environment variable to the desired environment (`development`, `testing`, or `production`).
+
+```bash
+export APP_ENV=development
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
